@@ -2,7 +2,7 @@
 Este é um projeto de relógio digital simples desenvolvido com HTML, CSS e JavaScript. O relógio exibe a hora atual de forma digital, atualizando-se em tempo real.
 
 # Demonstração
-Você pode visualizar uma demonstração ao vivo do relógio digital (aqui)(https://devjjean.github.io/relogio-digital/).
+Você pode visualizar uma demonstração ao vivo do relógio digital [aqui](https://devjjean.github.io/relogio-digital/).
 
 # Funcionalidades
 Exibição da hora atual de forma digital.
