@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: verdana;
+    font-family: arial;
 }
 
 /* Estilo para o corpo da página */
@@ -27,7 +27,7 @@ body {
     width: 550px; /* Largura do relógio */
     background: transparent; /* Fundo transparente */
     border-radius: 3px; /* Bordas arredondadas */
-    box-shadow: 1px 8px 10px rgba(0, 0, 0, .5); /* Sombra */
+    box-shadow: 1px 5px 5px #ccc; /* Sombra */
 }
 
 /* Estilo para os elementos filhos da classe "relogio" */
@@ -38,7 +38,7 @@ body {
     flex-direction: column; /* Alinha o texto verticalmente */
     align-items: center; /* Alinha o texto horizontalmente */
     justify-content: center; /* Alinha o texto verticalmente */
-    color: #fff; /* Cor do texto */
+    color: #fffb00; /* Cor do texto */
     background: rgba(5, 5, 5, .9); /* Fundo com opacidade */
     box-shadow: 5px 5px 15px rgba(0, 0, 0, .7); /* Sombra */
     border-radius: 7px; /* Bordas arredondadas */
